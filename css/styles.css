@@ -786,7 +786,7 @@ iframe {
   font-weight: bold;
 }
 .testimonial-content {
-  background: url('../img/bgmask2.png') no-repeat center center #08aeac;
+  background: #08aeac;
   color: #ffffff;
   padding: 20px;
   border-radius: 10px;
